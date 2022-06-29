@@ -96,7 +96,7 @@ limitations under the License.
     <sqoop.version>1.99.7</sqoop.version>
     <surefire.version>2.20.1</surefire.version>
     <test.sentry.hadoop.classpath>${maven.test.classpath}</test.sentry.hadoop.classpath>
-    <zookeeper.version>3.4.5</zookeeper.version>
+    <zookeeper.version>3.4.14</zookeeper.version>
     <maven.jar.plugin.version>3.0.2</maven.jar.plugin.version>
 
     <!-- Datanucleus package versions -->
