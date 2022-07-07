@@ -75,7 +75,7 @@ limitations under the License.
     <hive.version>2.3.2</hive.version>
     <jackson.version>1.8.8</jackson.version>
     <jdo-api.version>3.0.1</jdo-api.version>
-    <jetty.version>9.3.21.v20170918</jetty.version>
+    <jetty.version>10.0.10</jetty.version>
     <joda-time.version>2.5</joda-time.version>
     <junit.version>4.10</junit.version>
     <kafka.version>0.11.0.1</kafka.version>
